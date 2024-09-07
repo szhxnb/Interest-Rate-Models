@@ -6,6 +6,7 @@ nav_order: 1
 
 ## Introduction 
 
+
 This site has been created to summarize my understanding of Interest Rate Models. 
 
 There are 3 most popular methods to model Interest Rate. With an increasing practicability, they are: 
