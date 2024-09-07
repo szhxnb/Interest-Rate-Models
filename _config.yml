@@ -4,11 +4,4 @@ theme: just-the-docs
 
 url: https://szhxnb.github.io/Interest-Rate-Models/
 
-defaults:
-  - scope:
-      path: "docs" 
-      type: "pages"
-    values:
-      layout: "default"
-
 nav_enabled: true
