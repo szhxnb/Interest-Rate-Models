@@ -1,5 +1,6 @@
 ---
 title: Evolution
+layout: home
 nav_order: 2
 ---
 
