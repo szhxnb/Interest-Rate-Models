@@ -1,6 +1,7 @@
 ---
 title: Derivations
 parent: Short Rate Models
+layout: default
 nav_order: 1
-permlink: docs/short-rate-models/derivations
+nav_enabled: true
 ---
