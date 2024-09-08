@@ -20,13 +20,10 @@ After that, three dimensions are used to illustrate each one of the three method
 - A derivation for each single model being discussed
 - A simulation for the stochastic differential equation or an implementation for the analytical formula derived from each single model
 
-Please be aware that my research might not be accurate or complete. There will definitely be some models not mentioned. 
+## Contents
 
-You are welcomed to share any insights and make appropriate corrections. 
+Here is a draft table of contents, changes could be made: 
 
-## Table of Contents
-
-Here is a draft Table of Contents, changes could be made: 
 1. Basics
 2. Evolution
 3. Short Rate Models
@@ -37,5 +34,7 @@ Here is a draft Table of Contents, changes could be made:
   - HJM
 5. Market Models
 
+Please be aware that my research might not be accurate or complete. There will definitely be some good models not mentioned here. 
 
+You are welcomed to share any insights and make appropriate corrections. 
 
