@@ -22,3 +22,17 @@ This site has three dimensions to illustrate each one of the three methods:
 Please be aware that my research might not be accurate or complete. There will definitely be some models not mentioned. 
 
 You are welcomed to share any insights and make appropriate corrections. 
+
+Here is a draft Table of Contents, changes could be made: 
+1. Basics
+2. Evolution
+3. Short Rate Models
+  - Vasicek
+  - CIR
+  - Hull White
+4. Instantaneous Forward Rate Models
+  - HJM
+5. Market Models
+
+
+
