@@ -14,7 +14,9 @@ There are 3 most popular methods to model Interest Rate. With an increasing prac
 - Instantaneous Forward Rate Models 
 - Market Models
 
-This site has three dimensions to illustrate each one of the three methods: 
+Before discussing any model, some basic knowledge needs to be reinforced. 
+
+After that, three dimensions are used to illustrate each one of the three methods: 
 - A chronicle showing the evolution of Interest Rate Models from the first to the third method
 - A derivation for each single model being discussed
 - A simulation for the stochastic differential equation or an implementation for the analytical formula derived from each single model
