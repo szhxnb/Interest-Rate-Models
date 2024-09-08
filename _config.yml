@@ -17,6 +17,6 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 footer_content: 'By Hengxu Zhu' 
-footer_content: '“In the end, a theory is accepted not because it is confirmed by conventional empirical tests, but because researchers persuade one another that the theory is correct and relevant.” — Fischer Black'
+# footer_content: '“In the end, a theory is accepted not because it is confirmed by conventional empirical tests, but because researchers persuade one another that the theory is correct and relevant.” — Fischer Black'
 
 color_scheme: dark
