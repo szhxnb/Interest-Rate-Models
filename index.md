@@ -4,9 +4,15 @@ layout: home
 nav_order: 1
 ---
 
-## Introduction 
+## Motivation
 
-This site has been created to summarize my understanding of Interest Rate Models. 
+This site has been created to summarize my understanding of Interest Rate Models. The motivation is to use simple and plain phrases to explain these models, since there are many different version of the evolution of Interest Rate Modeling and the phrases used are vague in some cases. For example, there could two different phrases describing the same meaning of a model assumption that I don't think it is not necessary. Therefore, I will summarize as many cases I have seen as possible. 
+
+Please be aware that my research might not be accurate or complete. There will definitely be some good models and details not mentioned here. 
+
+You are welcomed to share any insights and make appropriate corrections. 
+
+## Models Introduction
 
 There are 3 most popular methods to model Interest Rate. With an increasing practicability, they are: 
 - Short Rate Models 
@@ -23,7 +29,7 @@ After that, the practicablity of the three methods are illustrated in following 
 
 ## Contents
 
-Here is a draft table of contents, changes could be made: 
+Here is a draft table of contents, changes could be made as I keep writing: 
 
 1. Basics
 2. Evolution
@@ -35,7 +41,4 @@ Here is a draft table of contents, changes could be made:
   - HJM
 5. Market Models
 
-Please be aware that my research might not be accurate or complete. There will definitely be some good models not mentioned here. 
-
-You are welcomed to share any insights and make appropriate corrections. 
 
