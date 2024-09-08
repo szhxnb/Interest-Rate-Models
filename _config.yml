@@ -16,29 +16,6 @@ defaults:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-callouts:
-  warning:
-    title: Warning
-    color: grey-dk
-  hint:
-    title: Hint
-    color: grey-dk
-  important:
-    title: Important
-    color: grey-dk
-  note:
-    title: Note
-    color: grey-dk
-  tip:
-    title: Tip
-    color: grey-dk
-  caution:
-    title: Caution
-    color: grey-dk
-  error:
-    color: grey-dk
-  attention:
-    title: Attention
-    color: grey-dk
+footer_content: 'By Hengxu Zhu'
 
 color_scheme: dark
