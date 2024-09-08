@@ -8,7 +8,7 @@ nav_order: 1
 
 This site has been created to summarize my understanding of Interest Rate Models. The motivation is to use simple and plain phrases to explain these models, since there are many different version of the evolution of Interest Rate Modeling and the phrases used are vague in some cases. For example, there could two different phrases describing the same meaning of a model assumption that I don't think it is not necessary. Therefore, I will summarize as many cases I have seen as possible. 
 
-Please be aware that my research might not be accurate or complete. There will definitely be some good models and details not mentioned here. For example, two or more factor models will not be mentioned as I don't understand their purposes, but the derivations are very similar. 
+Please be aware that my research might not be accurate or complete. There will definitely be some good models and details not mentioned here. For example, two or more factor models will not be mentioned as I don't understand their purposes, but the derivations are very similar to a one-factor model. 
 
 You are welcomed to share any insights and make appropriate corrections. 
 
