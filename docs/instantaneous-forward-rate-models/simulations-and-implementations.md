@@ -1,5 +1,5 @@
 ---
 title: Simulations and Implementations
-parent: Instantaneous Forward Rate Models
+parent: Forward Rate Models
 nav_order: 2
 ---
