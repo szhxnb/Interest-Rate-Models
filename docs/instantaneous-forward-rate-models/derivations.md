@@ -1,5 +1,5 @@
 ---
 title: Derivations
-parent: Instantaneous Forward Rate Models
+parent: Forward Rate Models
 nav_order: 1
 ---
