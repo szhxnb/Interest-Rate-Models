@@ -35,14 +35,15 @@ Lastly, for each model in the three methods, two things will be discussed:
    - Rate conversions
    - Fundamental Theorem of Asset Pricing
    - Ito's Formula
-3. Evolution
-4. Short Rate Models
+2. Evolution
+3. Short Rate Models
    - Vasicek
    - CIR
    - Hull White
+Section 4 & 5 will be updated...
 4. Instantaneous Forward Rate Models
    - HJM
-6. Market Models
+5. Market Models
    - LIBOR 
 
 
