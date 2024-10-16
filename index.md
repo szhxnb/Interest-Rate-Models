@@ -6,9 +6,9 @@ nav_order: 1
 
 ## Motivation
 
-This site has been created to summarize my understanding of Interest Rate Models. The motivation is to use simple and plain phrases to explain these models, since there are many different version of the evolution of Interest Rate Modeling and the phrases used are vague in some cases. For example, there could two different phrases describing the same meaning of a model assumption that I don't think it is not necessary. Therefore, I will summarize as many cases I have seen as possible. 
+This site has been created to summarize my understanding of Interest Rate Models and summarize into a note for sharing. In the next section, I will be intruducing the model I planned to include in this note. 
 
-Please be aware that my research might not be accurate or complete. There will definitely be some good models and details not mentioned here. For example, two or more factor models will not be mentioned as I don't understand their purposes, but the derivations are very similar to a one-factor model. 
+However, this note is currently incomplete. Even when it is completed, there will be many more complicated models in real market to suffice the valuation and trading strategy construction. Since they are more advanced version of the models in this note including more nuance to address some corner scenarios, I will only talk about these basic ones as a starter. 
 
 You are welcomed to share any insights and make appropriate corrections. 
 
@@ -19,26 +19,30 @@ There are 3 most popular methods to model Interest Rate. With an increasing prac
 - Instantaneous Forward Rate Models 
 - Market Models
 
-Before discussing any model, some basic knowledge needs to be reinforced. 
+This notes have the following content to introduce these models. 
 
-Then, there is a chronicle showing the evolution of Interest Rate Models from the first to the third method
+Firstly, some basic knowledge needs to be reinforced. 
 
-After that, the practicablity of the three methods are illustrated in following ways: 
-- A derivation of formulas for each single model being discussed
-- A simulation for the stochastic differential equation or an implementation for the analytical formula derived from each single model
+Then, I wrote a chronicle showing the evolution of Interest Rate Models from the first to the third method. 
+
+Lastly, for each model in the three methods, two things will be discussed: 
+- Derivation of the formulas
+- Simulation for the stochastic differential equation or implementation for the analytical formula (code is shared) 
 
 ## Contents
 
-Here is a draft table of contents, changes could be made as I keep writing: 
-
 1. Basics
-2. Evolution
-3. Short Rate Models
-  - Vasicek
-  - CIR
-  - Hull White
+   - Rate conversions
+   - Fundamental Theorem of Asset Pricing
+   - Ito's Formula
+3. Evolution
+4. Short Rate Models
+   - Vasicek
+   - CIR
+   - Hull White
 4. Instantaneous Forward Rate Models
-  - HJM
-5. Market Models
+   - HJM
+6. Market Models
+   - LIBOR 
 
 
