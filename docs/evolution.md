@@ -11,7 +11,7 @@ With decent understanding of everything mentioned in the basics, here the story 
 
 It should start with the short rate () modeling. In a time-homogeneous risk-neutral equillibrium market, we first have a derivation of the generalized term-structure from Vasicek at 1977. 
 
-A special case is derived to show the market equillibrium following a Ornstein-Uhlenback process which is equivalent to a stationary Gauss-Markov process. Based on my understanding, equillibrium here should mean a stable bond price or equivalently a stable interest rate. This is also the reason that this special case is a mean-reverting process. This special case has a form: 
+A special case is derived to show the market equillibrium following a Ornstein-Uhlenback process which is equivalent to a stationary Gauss-Markov process. Based on my understanding, equillibrium here means a stable bond price or equivalently a stable interest rate based on supply and demand of the underlyings. This is also the reason that this special case is a mean-reverting process. This special case has a form: 
 
   is risk-neutral Stochastic Brownian Motion and  is following Normal Distribution. 
 
