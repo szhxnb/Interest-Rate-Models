@@ -40,6 +40,7 @@ Lastly, for each model in the three methods, two things will be discussed:
    - Vasicek
    - CIR
    - Hull White
+
 Section 4 & 5 will be updated...
 4. Instantaneous Forward Rate Models
    - HJM
